@@ -1,4 +1,4 @@
-# Mytra-UI-Clone
+# Myntra-UI-Clone
 Myntra Clone Project
 This project is a fully responsive clone of the Myntra website, built using HTML, CSS, and JavaScript. The main goal of this project was to replicate the design and functionality of a modern e-commerce platform, giving me hands-on experience in front-end development. Through this process, I learned how to structure web pages effectively using HTML, style them creatively with CSS, and add interactivity using JavaScript.
 
